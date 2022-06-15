@@ -1,4 +1,4 @@
-# Projetos deselvolvidos no módulo 2 - DiversiData Tech PAN
+# Projetos deselvolvidos no módulo 2 em Python - DiversiData Tech PAN
 
 #### Trabalho - Pesquisas feitas sobre as preferências pessoais de alguns temas, com os dados espalhados em vários arquivos .csv.
 - Leitura dos arquivos;
